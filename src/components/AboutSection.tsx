@@ -126,7 +126,7 @@ export default function AboutSection() {
                   <span className="text-white/60 text-xs font-medium">AM</span>
                 </div>
                 <div>
-                  <p className="text-white/80 text-sm font-medium">Alex Monroe</p>
+                  <p className="text-white/80 text-sm font-medium">Edope/Vizeal</p>
                   <p className="text-white/30 text-xs">Video Editor & VFX Compositor</p>
                 </div>
               </div>
