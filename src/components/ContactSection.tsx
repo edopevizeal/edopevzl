@@ -84,7 +84,7 @@ export default function ContactSection() {
             transition={{ duration: 0.9, delay: 0.1 }}
             className="heading-section gradient-text"
           >
-            Let's create something
+            Let's create vizual
             <br />
             extraordinary.
           </motion.h2>
@@ -106,7 +106,7 @@ export default function ContactSection() {
           className="flex flex-wrap gap-3 justify-center mb-12"
         >
           <a
-            href="mailto:hello@alexmonroe.com"
+            href="mailto:edopevizeal@gmail.com"
             className="btn-secondary text-sm"
           >
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -116,7 +116,7 @@ export default function ContactSection() {
             Email Me
           </a>
           <a
-            href="https://wa.me/1234567890"
+            href="https://wa.me/6283830282680"
             className="btn-secondary text-sm"
             style={{ borderColor: 'rgba(37, 211, 102, 0.3)', color: 'rgba(37, 211, 102, 0.8)' }}
           >
