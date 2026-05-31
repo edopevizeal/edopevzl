@@ -35,7 +35,7 @@ export default function LoadingScreen({ onComplete }: { onComplete: () => void }
         className="text-center"
       >
         <p className="text-white/30 text-xs tracking-widest uppercase mb-2">Portfolio</p>
-        <h1 className="text-white text-2xl font-light tracking-tight">Alex Monroe</h1>
+        <h1 className="text-white text-2xl font-light tracking-tight">Edope/Vizeal</h1>
       </motion.div>
 
       <div className="w-32 h-px bg-white/10 relative overflow-hidden">
